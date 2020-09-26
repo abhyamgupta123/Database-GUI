@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import GUI, progress_information_table
 import classifier
 import custom_classifier
