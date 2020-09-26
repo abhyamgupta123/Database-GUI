@@ -6,10 +6,7 @@ First install all the required packages and dependencies:-
 ```bash
 $ python3 -m pip install -r requirements.txt
 $ pip3 install -r requirements.txt
-```
-If ran in to some problem for installing mysql library then use:-
-```bash
-$ pip install mysql-connector-python==8.0.11
+$ python3 -m pip install mysql-connector
 ```
 
 now set-up the .env file as your system default environment variables.
